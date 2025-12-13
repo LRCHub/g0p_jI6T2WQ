@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "フライディ・チャイナタウン",
+  "base_artist": "泰葉",
+  "createdAt": "2025-12-13T16:16:25.688819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/01_フライディ・チャイナタウン_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン",
+      "artist": "Yasuha",
+      "has_synced": true,
+      "path": "select/02_フライディ・チャイナタウン_Yasuha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン",
+      "artist": "BENI",
+      "has_synced": true,
+      "path": "select/03_フライディ・チャイナタウン_BENI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/04_フライディ・チャイナタウン_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/05_フライディ・チャイナタウン_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/06_フライディ・チャイナタウン_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/07_フライディ・チャイナタウン_梓川.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン - English Version",
+      "artist": "BENI",
+      "has_synced": true,
+      "path": "select/08_フライディ・チャイナタウン_-_English_Version_BENI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン - Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/09_フライディ・チャイナタウン_-_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フライディ・チャイナタウン",
+      "artist": "雨宮 天",
+      "has_synced": true,
+      "path": "select/10_フライディ・チャイナタウン_雨宮_天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly-day Chinatown",
+      "artist": "Yasuha",
+      "has_synced": false,
+      "path": "select/pl_01_Fly-day_Chinatown_Yasuha.txt"
+    }
+  ]
+}
